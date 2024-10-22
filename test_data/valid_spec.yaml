@@ -1,0 +1,6 @@
+enums:
+  - name: TestEnum
+    variants: 
+      - Flag0
+      - Flag1
+      - Flag2
